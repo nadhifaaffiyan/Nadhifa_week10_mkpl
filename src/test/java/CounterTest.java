@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class CounterTest {
 
-
+	
 
 	@Test
 	public void testIncrement() {
